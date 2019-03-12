@@ -1,0 +1,2 @@
+mecab-python3
+git+https://github.com/tagucci/pythonrouge.git
