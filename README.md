@@ -1,6 +1,5 @@
 # Gingo
-
-This is a repository for Japanese Multi-length Headline Generation. In this repository, we provide preprocess scripts  of [JAMUL/JNC corpus](https://cl.asahi.com/api_data/jnc-jamul.html) and evaluation scripts for Japanese summarization in ROUGE metric.
+This is a repository for headline **G**enerat**i**o**n** of multi-len**g**ths **O**utpus in Japanese (Gingo). We conviniently call this task **Gingo**. In this repository, we provide preprocess scripts  of [JAMUL/JNC corpus](https://cl.asahi.com/api_data/jnc-jamul.html) and evaluation scripts for Japanese summarization in ROUGE metric.
 
 ## JAMUL
 
